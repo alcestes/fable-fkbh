@@ -265,7 +265,7 @@ automatically updated whenever a change is saved.
 To build a production version of the web app, execute:
 
 ```none
-$ vite build
+$ npx vite build
 ```
 
 ## Integrating Femto
